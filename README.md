@@ -12,7 +12,7 @@ A simple smart contract for voting, built with Solidity. This contract allows an
 
  Technologies Used
 
-- Solidity `^0.8.26`
+- Solidity `^0.8.29`
 - Ethereum Smart Contracts
 
  Contract Functions
